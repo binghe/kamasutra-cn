@@ -1,4 +1,6 @@
-# 那啥经
+# 《那啥经》（中文版）
+
+那啥就是那啥，你懂的……
 
 ## Requirements for building from sources
 
