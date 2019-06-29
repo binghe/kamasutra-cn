@@ -1,6 +1,6 @@
 # 《那啥经》（中文版）
 
-那啥就是那啥，你懂的……
+就是那个那啥，你懂的……
 
 ## Requirements for building from sources
 
