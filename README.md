@@ -6,7 +6,7 @@
 
 ## Technologies
 
-All textual contents are authored in the Darwin Information Typing Architecture (DITA), using Markdown as much as possible.
+All textual contents are authored in the Darwin Information Typing Architecture (DITA), using Markdown.
 
 ## Requirements for building ebooks from (textual) sources & figures
 
