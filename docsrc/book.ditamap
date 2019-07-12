@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap xml:lang="zh-CN">
+  <title>Kamasutra</title>
+  <frontmatter>
+    <booklists>
+      <toc/>
+    </booklists>
+  </frontmatter>
+  <!-- Part I -->
+  <part keyref="general-matters">
+    <chapter href="part1/chap1.md" format="markdown"/>
+  </part>
+  <!-- Part II -->
+  <part keyref="sexual-intercourse">
+  </part>
+  <!-- Part III -->
+  <part keyref="young-women">
+  </part>
+  <!-- Part IV -->
+  <part keyref="the-wife">
+  </part>
+  <!-- Part V -->
+  <part keyref="other-mens-wives">
+  </part>
+  <!-- Part VI -->
+  <part keyref="courtesans">
+  </part>
+  <!-- Part VII -->
+  <part keyref="advanced-methods">
+  </part>
+</bookmap>
