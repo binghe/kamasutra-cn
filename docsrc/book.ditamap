@@ -8,25 +8,25 @@
     </booklists>
   </frontmatter>
   <!-- Part I -->
-  <part keyref="general-matters">
-    <chapter href="part1/chap1.md" format="markdown"/>
+  <part href="part1/general-matters.md" format="markdown">
+    <chapter href="part1/summary-of-the-guide.md" format="markdown"/>
   </part>
   <!-- Part II -->
-  <part keyref="sexual-intercourse">
+  <part href="part2/sexual-intercourse.md" format="markdown">
   </part>
   <!-- Part III -->
-  <part keyref="young-women">
+  <part href="part3/young-women.md" format="markdown">
   </part>
   <!-- Part IV -->
-  <part keyref="the-wife">
+  <part href="part4/the-wife.md" format="markdown">
   </part>
   <!-- Part V -->
-  <part keyref="other-mens-wives">
+  <part href="part5/other-mens-wives.md" format="markdown">
   </part>
   <!-- Part VI -->
-  <part keyref="courtesans">
+  <part href="part6/courtesans.md" format="markdown">
   </part>
   <!-- Part VII -->
-  <part keyref="advanced-methods">
+  <part href="part7/advanced-methods.md" format="markdown">
   </part>
 </bookmap>
