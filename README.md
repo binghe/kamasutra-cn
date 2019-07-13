@@ -13,3 +13,13 @@ All textual contents are authored in the Darwin Information Typing Architecture 
 ## Requirements for building figures from sources
 
 - Poser Pro 11 [https://www.posersoftware.com]
+
+## Progress
+
+* [ ] Part I
+* [ ] Part II
+* [ ] Part III
+* [ ] Part IV
+* [ ] Part V
+* [ ] Part VI
+* [ ] Part VII
