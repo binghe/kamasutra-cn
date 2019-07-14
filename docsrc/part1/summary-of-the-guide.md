@@ -71,7 +71,7 @@ suvarṇanābhaḥ sāṃprayogikam | ghoṭakamukhaḥ kanyā-saṃprayuktakam 
 gonardīyo bhāryā-adhikārikam | goṇikāputraḥ pāradārikam | kucumāra
 aupaniṣadikam iti ||
 
-当造物主 （Prajapati）创造众生的时候，他首先用十万章文字阐述了人生的这三个目的是如何成为它们存在的原因的。摩奴（Manu），造物主之子，将其中关于宗教信仰的部分摘录出来成为单独的作品。祭主仙人（Brihaspati）对其中关于个人发展的部分做了相同的事，伟大的湿婆神（Shiava）的信徒南迪（Nandin）则用一千章文字重新表述了感官愉悦的指南。随后先知
+当造物主 （Prajapati）创造众生的时候，他首先用十万章文字阐述了人生的这三个目标是如何成为它们存在的原因的。摩奴（Manu），造物主之子，将其中关于宗教信仰的部分摘录出来成为单独的作品。祭主仙人（Brihaspati）对其中关于个人发展的部分做了相同的事，伟大的湿婆神（Shiava）的信徒南迪（Nandin）则用一千章文字重新表述了感官愉悦的指南。随后先知
 Uddalaka 的儿子 Shvetaketu
 将它缩减到五百章。来自般遮罗国（Panchala）的 Babhravya
 又进一步将它缩减到一百五十章，分为七个部分：总则、那啥、年轻姑娘、老婆、别人的老婆、鸡、高级方法。从这里开始
@@ -121,7 +121,7 @@ nāgarika-vṛttam | nāyaka-sahāya-dūtīkarma-vimarśaḥ | iti sādhāraṇa
 prathamam adhikaraṇam | adhyāyāḥ pañca | prakaraṇāni pañca ||
 
 第一部分 “总则” 有五章五节：1.
-概要；2. 达到人生的三个目的；3. 各种技能的阐述；4.
+概要；2. 达到人生的三个目标；3. 各种技能的阐述；4.
 优雅男人的生活方式；5. 审视恋爱者及其伴侣和闺密们的活动。
 
 ## 1.1.17

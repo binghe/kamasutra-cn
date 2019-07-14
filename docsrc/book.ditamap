@@ -9,7 +9,8 @@
   </frontmatter>
   <!-- Part I -->
   <part href="part1/title.md" format="markdown">
-    <chapter href="part1/summary-of-the-guide.md" format="markdown"/>
+    <chapter href="part1/summary-of-the-guide.md" format="markdown" />
+    <chapter href="part1/three-aims-of-life.md" format="markdown" />
   </part>
   <!-- Part II -->
   <part href="part2/title.md" format="markdown">
