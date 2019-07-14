@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
 <bookmap xml:lang="en-US">
-  <part href="title.md" format="markdown">
+  <part href="general-matters.md" format="markdown">
     <chapter href="summary-of-the-guide.md" format="markdown" />
     <chapter href="three-aims-of-life.md" format="markdown" />
   </part>
