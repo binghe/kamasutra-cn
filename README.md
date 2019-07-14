@@ -38,5 +38,9 @@ All textual contents are authored in the Darwin Information Typing Architecture 
 4. The Kama Sutra of Vatsyayana, translated by Richard Burton (1883)
    [http://www.sacred-texts.com/sex/kama/]
 
-5. 《印度爱经》筏蹉衍那 [著]，理查·波顿 [英译]，朗读者 [汉译] 辽宁教育出版社
-   (2011) [https://item.jd.com/10883762.html]
+5. 《印度爱经》筏蹉衍那 [著], 理查·波顿 [英译], 朗读者 [汉译]. 辽宁教育出版社
+   (2011) (ISBN: 9787538293975) [https://item.jd.com/10883762.html]
+
+6. 《爱经》(The Kama Sutra) (插图本) 华希雅雅那 [著], 陈苍多 [译].
+   内蒙古人民出版社 (2004) (ISBN: 9787204071517) [http://www.rjzj.com/shishang/558.html]
+
