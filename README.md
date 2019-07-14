@@ -34,3 +34,6 @@ All textual contents are authored in the Darwin Information Typing Architecture 
 3. The Kāmasūtra by Srī Vātsyāyana Muni With the Commentary
    Jayamangala of Yashodhar. Jai Krishnadas-Haridas Gupta (1929)
    [https://archive.org/details/in.ernet.dli.2015.281236]
+
+4. The Kama Sutra of Vatsyayana, translated by Richard Burton (1883)
+   [http://www.sacred-texts.com/sex/kama/]
