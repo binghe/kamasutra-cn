@@ -27,7 +27,8 @@ All textual contents are authored in the Darwin Information Typing Architecture 
 ## References
 
 1. The Kamasutra: The Original Sanskrit and an English
-   Translation. YogaVidya.com LLC (2012) [http://www.yogavidya.com/kamasutra.html]
+   Translation (by Lars Martin Fosse). YogaVidya.com LLC (2012)
+   [http://www.yogavidya.com/kamasutra.html]
 
 2. TITUS Texts: Vatsyāyana, Kāmasūtra [http://titus.uni-frankfurt.de/texte/etcs/ind/aind/klskt/kamasutr/kamas.htm]
 
@@ -44,3 +45,6 @@ All textual contents are authored in the Darwin Information Typing Architecture 
 6. 《爱经》(The Kama Sutra) (插图本) 华希雅雅那 [著], 陈苍多 [译].
    内蒙古人民出版社 (2004) (ISBN: 9787204071517) [http://www.rjzj.com/shishang/558.html]
 
+7. 《爱经》婆蹉衍那 [著], 理查·波顿 [英译], 寒川子 [汉译]. 内蒙古大学出版社
+   (2007) (ISBN: 9787811151572)
+   [https://book.douban.com/subject/2212715/] [http://www.tadu.com/book/576833]
