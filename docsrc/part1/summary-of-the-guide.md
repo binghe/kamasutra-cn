@@ -2,19 +2,19 @@
 
 ## 1.1.1-4
 
-dharmārthakāmebhyo namaḥ || 1.1.1
+dharmārthakāmebhyo namaḥ || 1.1.1 ||
 
 dharma-artha-kāmebhyo namaḥ ||
 
-śāstre prakṛtatvāt || 1.1.2
+śāstre prakṛtatvāt || 1.1.2 ||
 
 śāstre prakṛtatvāt ||
 
-tatsamayāvabodhakebhyaś cācāryebhyaḥ || 1.1.3
+tatsamayāvabodhakebhyaś cācāryebhyaḥ || 1.1.3 ||
 
 tat-samaya-avabodhakebhyaś ca-ācāryebhyaḥ ||
 
-tatsaṃbandhāt || 1.1.4
+tatsaṃbandhāt || 1.1.4 ||
 
 tat-saṃbandhāt ||
 
@@ -23,37 +23,40 @@ tat-saṃbandhāt ||
 ## 1.1.5-12
 
 prajāpatir hi prajāḥ sṛṣṭvā tāṣāṃ sthitinibandhanaṃ trivargasya
-sādhanam adhyāyānāṃ śatasahasreṇāgre provāca || 1.1.5
+sādhanam adhyāyānāṃ śatasahasreṇāgre provāca || 1.1.5 ||
 
 prajāpatir hi prajāḥ sṛṣṭvā tāṣāṃ sthiti-nibandhanaṃ trivargasya
 sādhanam adhyāyānāṃ śatasahasreṇa-agre provāca ||
 
-tasyaikadeśikaṃ manuḥ svāyaṃbhuvo dharmādhikārikaṃ pṛthak cakāra || 1.1.6
+tasyaikadeśikaṃ manuḥ svāyaṃbhuvo dharmādhikārikaṃ pṛthak cakāra
+|| 1.1.6 ||
 
 tasya-ekadeśikaṃ manuḥ svāyaṃbhuvo dharma-adhikārikaṃ pṛthak cakāra ||
 
-bṛhaspatir arthādhikārikam || 1.1.7
+bṛhaspatir arthādhikārikam || 1.1.7 ||
 
 bṛhaspatir artha-adhikārikam ||
 
-mahādevānucaraś ca nandī sahasreṇādhyāyānāṃ pṛthak kāmasūtraṃ provāca || 1.1.8
+mahādevānucaraś ca nandī sahasreṇādhyāyānāṃ pṛthak kāmasūtraṃ provāca
+|| 1.1.8 ||
 
 mahādeva-anucaraś ca nandī sahasreṇa-adhyāyānāṃ pṛthak kāmasūtraṃ provāca ||
 
-tad eva tu pañcabhir adhyāyaśatair auddālakiḥ śvetaketuḥ saṃcikṣepa || 1.1.9
+tad eva tu pañcabhir adhyāyaśatair auddālakiḥ śvetaketuḥ saṃcikṣepa
+|| 1.1.9 ||
 
 tad eva tu pañcabhir adhyāyaśatair auddālakiḥ śvetaketuḥ saṃcikṣepa ||
 
 tad eva tu punar adhyardhenādhyāyaśatena
 sādhāraṇasāṃprayogikakanyāsaṃprayuktakabhāryādhikārikapāradārikavaiśikaupaniṣadikaiḥ
-saptabhir adhikaraṇair bābhravyaḥ pāñcālaḥ saṃcikṣepa || 1.1.10
+saptabhir adhikaraṇair bābhravyaḥ pāñcālaḥ saṃcikṣepa || 1.1.10 ||
 
 tad eva tu punar adhyardhena-adhyāyaśatena
 sādhāraṇa-sāṃprayogika-kanyā-saṃprayuktaka-bhāryā-adhikārika-pāradārika-vaiśika-aupaniṣadikaiḥ
 saptabhir adhikaraṇair bābhravyaḥ pāñcālaḥ saṃcikṣepa ||
 
 tasya ṣaṣṭhaṃ vaiśikam adhikaraṇaṃ pāṭaliputrikāṇāṃ gaṇikānāṃ
-niyogād dattakaḥ pṛthak cakāra || 1.1.11
+niyogād dattakaḥ pṛthak cakāra || 1.1.11 ||
 
 tasya ṣaṣṭhaṃ vaiśikam adhikaraṇaṃ pāṭaliputrikāṇāṃ gaṇikānāṃ
 niyogād dattakaḥ pṛthak cakāra ||
@@ -61,7 +64,7 @@ niyogād dattakaḥ pṛthak cakāra ||
 tatprasaṅgāc cārāyaṇaḥ sādhāraṇam adhikaraṇaṃ pṛthak provāca |
 suvarṇanābhaḥ sāṃprayogikam | ghoṭakamukhaḥ kanyāsaṃprayuktakam |
 gonardīyo bhāryādhikārikam | goṇikāputraḥ pāradārikam | kucumāra
-aupaniṣadikam iti || 1.1.12
+aupaniṣadikam iti || 1.1.12 ||
 
 tat-prasaṅgāc cārāyaṇaḥ sādhāraṇam adhikaraṇaṃ pṛthak provāca |
 suvarṇanābhaḥ sāṃprayogikam | ghoṭakamukhaḥ kanyā-saṃprayuktakam |
@@ -80,18 +83,20 @@ Dattaka 受波咤厘城（Pataliputra）里鸡们的委托将关于鸡的第六�
 
 ## 1.1.13-14
 
-evaṃ bahubhir ācāryais tacchāstraṃ khaṇḍaśaḥ praṇītam utsannakalpam abhūt ||  1.1.13
+evaṃ bahubhir ācāryais tacchāstraṃ khaṇḍaśaḥ praṇītam utsannakalpam
+abhūt ||  1.1.13 ||
 
 evaṃ bahubhir ācāryais tacchāstraṃ khaṇḍaśaḥ praṇītam utsannakalpam abhūt ||
 
 tatra dattakādibhiḥ praṇītānāṃ śāstrāvayavānām ekadeśatvāt,
 mahad iti ca bābhravīyasya duradhyeyatvāt,
-saṃkṣipya sarvam artham alpena granthena kāmasūtram idaṃ praṇītam || 1.1.14
+saṃkṣipya sarvam artham alpena granthena kāmasūtram idaṃ praṇītam
+|| 1.1.14 ||
 
 tatra dattaka-ādibhiḥ praṇītānāṃ śāstra-avayavānām ekadeśatvāt,
 mahad iti ca bābhravīyasya duradhyeyatvāt,
 saṃkṣipya sarvam artham alpena granthena kāmasūtram idaṃ praṇītam ||
-   
+
 以这种方式，本指南被老师们分割成了几部分，它所感知的对象也近乎消失了。因为
 Dattaka 和其他人所做的工作都是片面的，也因为
 Babhravya 的工作过于庞大、难以记忆，Vatsyayana
@@ -99,7 +104,7 @@ Babhravya 的工作过于庞大、难以记忆，Vatsyayana
 
 ## 1.1.15
 
-tasyāyaṃ prakaraṇādhikaraṇasamuddeśaḥ || 1.1.15
+tasyāyaṃ prakaraṇādhikaraṇasamuddeśaḥ || 1.1.15 ||
 
 tasya-ayaṃ prakaraṇa-adhikaraṇa-samuddeśaḥ ||
 
@@ -109,7 +114,7 @@ tasya-ayaṃ prakaraṇa-adhikaraṇa-samuddeśaḥ ||
 
 śāstrasaṃgrahaḥ | trivargapratipattiḥ | vidyāsamuddeśaḥ |
 nāgarikavṛttam | nāyakasahāyadūtīkarmavimarśaḥ | iti sādhāraṇaṃ
-prathamam adhikaraṇam | adhyāyāḥ pañca | prakaraṇāni pañca || 1.1.16
+prathamam adhikaraṇam | adhyāyāḥ pañca | prakaraṇāni pañca || 1.1.16 ||
 
 śāstra-saṃgrahaḥ | trivarga-pratipattiḥ | vidyā-samuddeśaḥ |
 nāgarika-vṛttam | nāyaka-sahāya-dūtīkarma-vimarśaḥ | iti sādhāraṇaṃ
@@ -127,7 +132,7 @@ upacārāḥ | saṃveśanaprakārāḥ | citraratāni | prahaṇanayogāḥ |
 tadyuktāś ca sītkṛtopakramāḥ | puruṣāyitam | puruṣopasṛptāni |
 aupariṣṭakam | ratārambhāvasānikam | rataviśeṣāḥ | praṇayakalahaḥ |
 iti sāṃprayogikaṃ dvitīyam adhikaraṇam | adhyāyā daśa | prakaraṇāni
-saptadaśa || 1.1.17
+saptadaśa || 1.1.17 ||
 
 pramāṇa-kāla-bhāvebhyo rata-avasthāpanam | prīti-viśeṣāḥ |
 āliṅgana-vicārāḥ | cumbana-vikalpāḥ | nakha-radana-jātayaḥ |
@@ -151,7 +156,7 @@ varaṇavidhānam | saṃbandhanirṇayaḥ | kanyāvisrambhaṇam | *bālāyā
 [Ch: bālāyāḥ] upakramāḥ | iṅgitākārasūcanam | ekapuruṣābhiyogaḥ |
 prayojyasyopāvartanam | abhiyogataś ca kanyāyāḥ pratipattiḥ |
 vivāhayogaḥ | iti kanyāsaṃprayuktakaṃ tṛtīyam adhikaraṇam | adhyāyāḥ
-pañca | prakaraṇāni nava || 1.1.18
+pañca | prakaraṇāni nava || 1.1.18 ||
 
 varaṇa-vidhānam | saṃbandha-nirṇayaḥ | kanyā-visrambhaṇam | *bālāyā
 [Ch: bālāyāḥ] upakramāḥ | iṅgita-ākāra-sūcanam | eka-puruṣa-abhiyogaḥ
@@ -171,7 +176,7 @@ ekacāriṇīvṛttam | pravāsacaryā | sapatnīṣu jyeṣṭhāvṛttam |
 kaniṣṭhāvṛttam | punarbhūvṛttam | durbhagāvṛttam | *āntaḥpurikam
 [Ch: antaḥpurikam] | puruṣasya bahvīṣu pratipattiḥ | iti
 bhāryādhikārikaṃ caturtham adhikaraṇam | adhyāyau dvau | prakaraṇāny
-aṣṭau || 1.1.19
+aṣṭau || 1.1.19 ||
 
 eka-cāriṇī-vṛttam | pravāsa-caryā | sapatnīṣu jyeṣṭhā-vṛttam |
 kaniṣṭhā-vṛttam | punarbhū-vṛttam | durbhagā-vṛttam | *āntaḥpurikam
@@ -190,7 +195,7 @@ strīpuruṣaśīlāvasthāpanam | vyāvartanakāraṇāni | strīṣu siddhā�
 puruṣāḥ | ayatnasādhyā yoṣitaḥ | paricayakāraṇāni | abhiyogāḥ |
 bhāvaparīkṣā | dūtīkarmāṇi | īśvarakāmitam | āntaḥpurikaṃ
 dārarakṣitakam | iti pāradārikaṃ pañcamam adhikaraṇam | adhyāyāḥ
-ṣaṭ | prakaraṇāni daśa || 1.1.20
+ṣaṭ | prakaraṇāni daśa || 1.1.20 ||
 
 strī-puruṣa-śīla-avasthāpanam | vyāvartana-kāraṇāni | strīṣu siddhāḥ
 puruṣāḥ | ayatna-sādhyā yoṣitaḥ | paricaya-kāraṇāni | abhiyogāḥ |
@@ -209,7 +214,7 @@ gamyacintā | gamanakāraṇāni | upāvartanavidhiḥ | kāntānuvartanam |
 arthāgamopāyāḥ | viraktaliṅgāni | viraktapratipattiḥ |
 niṣkāsanaprakārāḥ | viśīrṇapratisaṃdhānam | lābhaviśeṣaḥ |
 arthānarthānubandhasaṃśayavicāraḥ | veśyāviśeṣāś ca | iti vaiśikaṃ
-ṣaṣṭham adhikaraṇam | adhyāyāḥ ṣaṭ | prakaraṇāni dvādaśa || 1.1.21
+ṣaṣṭham adhikaraṇam | adhyāyāḥ ṣaṭ | prakaraṇāni dvādaśa || 1.1.21 ||
 
 gamya-cintā | gamana-kāraṇāni | upāvartana-vidhiḥ | kānta-anuvartanam |
 artha-āgama-upāyāḥ | virakta-liṅgāni | virakta-pratipattiḥ |
@@ -227,7 +232,8 @@ vaiśikaṃ ṣaṣṭham adhikaraṇam | adhyāyāḥ ṣaṭ | prakaraṇāni 
 
 subhagaṃkaraṇam | vaśīkaraṇam | vṛṣyāś ca yogāḥ |
 naṣṭarāgapratyānayanam | vṛddhividhayaḥ | citrāś ca yogāḥ | ity
-aupaniṣadikaṃ saptamam adhikaraṇam | adhyāyau dvau | prakaraṇāni ṣaṭ || 1.1.22
+aupaniṣadikaṃ saptamam adhikaraṇam | adhyāyau dvau | prakaraṇāni ṣaṭ
+|| 1.1.22 ||
 
 subhagaṃ-karaṇam | vaśīkaraṇam | vṛṣyāś ca yogāḥ |
 naṣṭa-rāga-pratyānayanam | vṛddhi-vidhayaḥ | citrāś ca yogāḥ | ity
@@ -240,16 +246,16 @@ aupaniṣadikaṃ saptamam adhikaraṇam | adhyāyau dvau | prakaraṇāni ṣa�
 ## 1.1.23-24
 
 evaṃ ṣaṭtriṃśad adhyāyāḥ | catuḥṣaṣṭiḥ prakaraṇāni | adhikaraṇāni
-sapta | sapādaṃ ślokasahasram | iti śāstrasya saṃgrahaḥ || 1.1.23
+sapta | sapādaṃ ślokasahasram | iti śāstrasya saṃgrahaḥ || 1.1.23 ||
 
 evaṃ ṣaṭtriṃśad adhyāyāḥ | catuḥṣaṣṭiḥ prakaraṇāni | adhikaraṇāni
 sapta | sapādaṃ ślokasahasram | iti śāstrasya saṃgrahaḥ ||
 
-saṃkṣepam imam uktvāsya vistaro 'taḥ pravakṣyate || 1.1.24a
+saṃkṣepam imam uktvāsya vistaro 'taḥ pravakṣyate || 1.1.24a ||
 
 saṃkṣepam imam uktvā-asya vistaro +ataḥ pravakṣyate ||
 
-iṣṭaṃ hi viduṣāṃ loke samāsavyāsabhāṣaṇam || 1.1.24b
+iṣṭaṃ hi viduṣāṃ loke samāsavyāsabhāṣaṇam || 1.1.24b ||
 
 iṣṭaṃ hi viduṣāṃ loke samāsa-vyāsa-bhāṣaṇam ||
 
