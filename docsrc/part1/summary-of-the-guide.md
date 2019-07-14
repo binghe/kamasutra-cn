@@ -18,7 +18,7 @@ tatsaṃbandhāt || 1.1.4
 
 tat-saṃbandhāt ||
 
-向宗教信仰（法）、个人发展（利）和感官愉悦（欲）致敬，因为它们是本指南的中心主题。同时也向解释它们之间关系的导师们致敬，因为（从他们那里）我们知道了这三者是彼此关联的。
+向宗教信仰（法）、个人发展（利）和感官愉悦（欲）致敬，因为它们是本指南的中心主题。同时也向解释它们之间关系的老师们致敬，因为（从他们那里）我们知道了这三者是彼此关联的。
 
 ## 1.1.5-12
 
@@ -92,7 +92,7 @@ tatra dattaka-ādibhiḥ praṇītānāṃ śāstra-avayavānām ekadeśatvāt,
 mahad iti ca bābhravīyasya duradhyeyatvāt,
 saṃkṣipya sarvam artham alpena granthena kāmasūtram idaṃ praṇītam ||
    
-以这种方式，本指南被许多导师分割成了几部分，它所感知的对象也近乎消失了。因为
+以这种方式，本指南被老师们分割成了几部分，它所感知的对象也近乎消失了。因为
 Dattaka 和其他人所做的工作都是片面的，也因为
 Babhravya 的工作过于庞大、难以记忆，Vatsyayana
 将这整个主题缩减成一本小书，也就是这本《感官愉悦的指南》。
