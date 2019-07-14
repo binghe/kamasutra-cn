@@ -7,27 +7,11 @@
       <toc/>
     </booklists>
   </frontmatter>
-  <!-- Part I -->
-  <part href="part1/title.md" format="markdown">
-    <chapter href="part1/summary-of-the-guide.md" format="markdown" />
-    <chapter href="part1/three-aims-of-life.md" format="markdown" />
-  </part>
-  <!-- Part II -->
-  <part href="part2/title.md" format="markdown">
-  </part>
-  <!-- Part III -->
-  <part href="part3/title.md" format="markdown">
-  </part>
-  <!-- Part IV -->
-  <part href="part4/title.md" format="markdown">
-  </part>
-  <!-- Part V -->
-  <part href="part5/title.md" format="markdown">
-  </part>
-  <!-- Part VI -->
-  <part href="part6/title.md" format="markdown">
-  </part>
-  <!-- Part VII -->
-  <part href="part7/title.md" format="markdown">
-  </part>
+  <part href="part1/part1.ditamap" format="ditamap" />
+  <part href="part2/part2.ditamap" format="ditamap" />
+  <part href="part3/part3.ditamap" format="ditamap" />
+  <part href="part4/part4.ditamap" format="ditamap" />
+  <part href="part5/part5.ditamap" format="ditamap" />
+  <part href="part6/part6.ditamap" format="ditamap" />
+  <part href="part7/part7.ditamap" format="ditamap" />
 </bookmap>
