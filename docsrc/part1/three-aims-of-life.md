@@ -12,19 +12,24 @@ parasparasya-anupaghātakaṃ trivargaṃ seveta ||
 
 ## 1.2.2-6
 
-bālye vidyāgrahaṇādīn arthān || 1.2.2
+bālye vidyāgrahaṇādīn arthān || 1.2.2 ||
+
 bālye vidyā-grahaṇa-ādīn arthān ||
 
-kāmaṃ ca yauvane || 1.2.3
+kāmaṃ ca yauvane || 1.2.3 ||
+
 kāmaṃ ca yauvane ||
 
-sthāvire dharmaṃ mokṣaṃ ca || 1.2.4
+sthāvire dharmaṃ mokṣaṃ ca || 1.2.4 ||
+
 sthāvire dharmaṃ mokṣaṃ ca ||
 
-anityatvād āyuṣo yathopapādaṃ vā seveta || 1.2.5
+anityatvād āyuṣo yathopapādaṃ vā seveta || 1.2.5 ||
+
 anityatvād āyuṣo yathā-upapādaṃ vā seveta ||
 
-brahmacaryam eva tv ā vidyāgrahaṇāt || 1.2.6
+brahmacaryam eva tv ā vidyāgrahaṇāt || 1.2.6 ||
+
 brahmacaryam eva tv ā vidyā-grahaṇāt ||
 
 在童年时期，他应该以获取知识为追求的目标；在青年时期，则以感官愉悦为目标；到了老年，则是宗教信仰和解脱。或者他应该同时追求这些目标，只要条件允许，因为寿命是不确定的，而通常他直到完成学习以前都保持禁欲。
@@ -33,26 +38,28 @@ brahmacaryam eva tv ā vidyā-grahaṇāt ||
 
 alaukikatvād adṛṣṭārthatvād apravṛttānāṃ yajñādīnāṃ śāstrāt
 pravartanam, *laukikatvād [Ch: laukitvād] dṛṣṭārthatvāc ca
-pravṛttebhyaś ca māṃsabhakṣaṇādibhyaḥ śāstrād eva nivāraṇaṃ dharmaḥ || 1.2.7
+pravṛttebhyaś ca māṃsabhakṣaṇādibhyaḥ śāstrād eva nivāraṇaṃ dharmaḥ
+|| 1.2.7 ||
 
 alaukikatvād adṛṣṭa-arthatvād apravṛttānāṃ yajñā-ādīnāṃ śāstrāt
 pravartanam, *laukikatvād [Ch: laukitvād] dṛṣṭa-arthatvāc ca
 pravṛttebhyaś ca māṃsa-bhakṣaṇa-ādibhyaḥ śāstrād eva nivāraṇaṃ dharmaḥ ||
 
-taṃ śruter dharmajñasamavāyāc ca pratipadyeta || 1.2.8
+taṃ śruter dharmajñasamavāyāc ca pratipadyeta || 1.2.8 ||
+
 taṃ śruter dharmajña-samavāyāc ca pratipadyeta ||
 
-根据经典，宗教信仰（法）是诸如牺牲等行为的表演，其本身没有实际目的，因为它们不属于这个世界并且它们的目标是不可见的，同时需要回避诸如吃肉等行为。后者则是有实际目的的——同样根据经典，因为它们属于这个世界并且具有可见的目标。一个人需要从他所获得的经典中以及与宗教专家的交往中学习宗教信仰。
+根据经典，宗教信仰（法）是诸如牺牲等行为的表演，其本身没有实际目的，因为它们不属于这个世界并且它们的目标是不可见的，同时需要回避诸如吃肉等有实际目的的行为——同样根据经典，因为它们属于这个世界并且具有可见的目标。一个人需要从他所获得的经典中以及与宗教专家的交往中学习宗教信仰。
 
 ## 1.2.9-10
 
 vidyābhūmihiraṇyapaśudhānyabhāṇḍopaskaramitrādīnām arjanam arjitasya
-vivardhanam arthaḥ || 1.2.9
+vivardhanam arthaḥ || 1.2.9 ||
 
 vidyā-bhūmi-hiraṇya-paśu-dhānya-bhāṇḍa-upaskara-mitra-ādīnām arjanam
 arjitasya vivardhanam arthaḥ ||
 
-tam adhyakṣapracārād vārtāsamayavidbhyo vaṇigbhyaś ceti || 1.2.10
+tam adhyakṣapracārād vārtāsamayavidbhyo vaṇigbhyaś ceti || 1.2.10 ||
 
 tam adhyakṣa-pracārād vārtā-samayavidbhyo vaṇigbhyaś ca-iti ||
 
@@ -61,18 +68,18 @@ tam adhyakṣa-pracārād vārtā-samayavidbhyo vaṇigbhyaś ca-iti ||
 ## 1.2.11-13
 
 srotratvakcakṣurjihvāghrāṇānām ātmasaṃyuktena manasādhiṣṭhitānāṃ sveṣu
-sveṣu viṣayeṣv ānukūlyataḥ pravṛttiḥ kāmaḥ || 1.2.11
+sveṣu viṣayeṣv ānukūlyataḥ pravṛttiḥ kāmaḥ || 1.2.11 ||
 
 srotra-tvak-cakṣur-jihvā-ghrāṇānām ātma-saṃyuktena
 manasā-adhiṣṭhitānāṃ sveṣu sveṣu viṣayeṣv ānukūlyataḥ pravṛttiḥ kāmaḥ ||
 
 sparśaviśeṣaviṣayāt tv asyābhimānikasukhānuviddhā phalavaty
-arthapratītiḥ prādhānyāt kāmaḥ || 1.2.12
+arthapratītiḥ prādhānyāt kāmaḥ || 1.2.12 ||
 
 sparśa-viśeṣa-viṣayāt tv asya-abhimānika-sukha-anuviddhā phalavaty
 artha-pratītiḥ prādhānyāt kāmaḥ ||
 
-taṃ kāmasūtrān nāgarikajanasamavāyāc ca pratipadyeta || 1.2.13
+taṃ kāmasūtrān nāgarikajanasamavāyāc ca pratipadyeta || 1.2.13 ||
 
 taṃ kāmasūtrān nāgarika-jana-samavāyāc ca pratipadyeta ||
 
