@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
 <bookmap xml:lang="zh-CN">
-  <title>Kamasutra</title>
+  <title>Kamasutra (Sanskrit-Chinese)</title>
   <frontmatter>
     <booklists>
       <toc/>
     </booklists>
   </frontmatter>
   <!-- Part I -->
-  <part href="part1/general-matters.md" format="markdown">
+  <part href="part1/title.md" format="markdown">
     <chapter href="part1/summary-of-the-guide.md" format="markdown"/>
   </part>
   <!-- Part II -->
-  <part href="part2/sexual-intercourse.md" format="markdown">
+  <part href="part2/title.md" format="markdown">
   </part>
   <!-- Part III -->
-  <part href="part3/young-women.md" format="markdown">
+  <part href="part3/title.md" format="markdown">
   </part>
   <!-- Part IV -->
-  <part href="part4/the-wife.md" format="markdown">
+  <part href="part4/title.md" format="markdown">
   </part>
   <!-- Part V -->
-  <part href="part5/other-mens-wives.md" format="markdown">
+  <part href="part5/title.md" format="markdown">
   </part>
   <!-- Part VI -->
-  <part href="part6/courtesans.md" format="markdown">
+  <part href="part6/title.md" format="markdown">
   </part>
   <!-- Part VII -->
-  <part href="part7/advanced-methods.md" format="markdown">
+  <part href="part7/title.md" format="markdown">
   </part>
 </bookmap>
