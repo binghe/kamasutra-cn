@@ -299,7 +299,7 @@ na-adhiśrīyante | na hi mṛgāḥ santi-iti yavā na-upayanta iti vātsyāyan
 (A man who pursues prosperity, sensual pleasure, and religion achieves
 endless happiness without pain, both in this world and the next.)
 
-智者做事心坦荡，享快乐而不失利。
+智者做事心坦荡，享快乐且不损利。
 
 (Educated men prefer actions which are neither associated with doubt
 about what will happen in the next life, nor with happiness that
