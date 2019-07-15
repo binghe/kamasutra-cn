@@ -190,11 +190,149 @@ vātsyāyanaḥ ||
 ## 1.2.26-29
 
 “一个人不应该从事经济活动。因为即便他尽了最大努力，有时也可能什么也得不到；或者就算什么也不做，它们也可能自己产出些东西来。是命运在左右一切。命运让一个人走向财富或悲剧，胜利或失败，幸福或不幸。是命运把巴利
-(Bali) 推上因陀罗 (Indra) 的宝座。是命运颠覆了他。只有命运才能使他复位。“ 宿命论者如是说。
+(Bali) 推上因陀罗 (Indra) 的宝座。是命运颠覆了他。只有命运才能使他复位。”
+宿命论者如是说。
+
+<details>
+nārthāṃś caret | prayatnato 'pi hy ete 'nuṣṭhīyamānā naiva kadācit
+syuḥ || ananuṣṭhīyamānā api yadṛcchayā bhaveyuḥ || 1.2.26 ||
+
+na-arthāṃś caret | prayatnato +api hy ete +anuṣṭhīyamānā na-eva
+kadācit syuḥ || ananuṣṭhīyamānā api yadṛcchayā bhaveyuḥ ||
+
+tatsarvaṃ kālakāritam iti || 1.2.27 ||
+
+tat-sarvaṃ kālakāritam iti ||
+
+kāla eva hi puruṣān arthānarthayor jayaparājayayoḥ sukhaduḥkhayoś ca
+sthāpayati || 1.2.28 ||
+
+kāla eva hi puruṣān artha-anarthayor jaya-parājayayoḥ sukha-duḥkhayoś
+ca sthāpayati ||
+
+kālena balir indraḥ kṛtaḥ | kālena *vyavaropitaḥ [Ch: vyaparopitaḥ] |
+kāla eva punar apy enaṃ karteti kālakāraṇikāḥ || 1.2.29 ||
+
+kālena balir indraḥ kṛtaḥ | kālena *vyavaropitaḥ [Ch: vyaparopitaḥ] |
+kāla eva punar apy enaṃ kartā-iti kāla-kāraṇikāḥ ||
+</details>
 
 ## 1.2.30-31
 
-根据 Vatsyayana，“由于一切活动都基于人类的努力，因此需要一种方法，确切地说是因为即便是注定的财富也依赖于一种方法。一个没有任何行动的人不会成就任何好事。”
+但根据 Vatsyayana，“由于一切活动都基于人类的努力，因此需要一种方法，因为严格来讲即便是注定的财富也是通过某种方法得到。一个没有任何行动的人不会成就任何好事。”
+
+<details>
+puruṣakārapūrvakatvāt sarvapravṛttīnām upāyaḥ pratyayaḥ || 1.2.30 ||
+
+puruṣa-kāra-pūrvakatvāt sarva-pravṛttīnām upāyaḥ pratyayaḥ ||
+
+avaśyaṃ bhāvino 'py arthasyopāyapūrvakatvād eva | na niṣkarmaṇo
+bhadram astīti vātsyāyanaḥ || 1.2.31 ||
+
+avaśyaṃ bhāvino +apy arthasya-upāya-pūrvakatvād eva | na niṣkarmaṇo
+bhadram asti-iti vātsyāyanaḥ ||
+</details>
 
 ## 1.2.32-36
 
+“一个人不应该追求感官愉悦，因为这些东西对更重要的宗教信仰和个人发展有不利影响，对其他好的事情也有不利影响。更重要的是，它们将一个人和那些不值得交往的人联系在一起，使他参与坏的事情，从而玷污和毁掉他的前途。它们还会产生出不小心、不谨慎、不信任和拒绝。我们也听说许多人在感官愉悦的控制下和他的追随者们一起毁灭了。例如
+Bhojas 的国王 Dandakya
+因为好色而上了一个婆罗门的的女儿，进而毁了他的亲属和王国。神之主
+(King of the Gods) 上了 Ahalya，全能的 Kichaka 上了
+Draupadi，Ravana 上了 Sita，还有许多其他人在感官愉悦的控制下自我毁灭了，”
+功利主义者们如是说。
+
+<details>
+na kāmāṃś caret | dharmārthayoḥ pradhānayor evam anyeṣāṃ ca satāṃ
+pratyanīkatvāt | anarthajanasaṃsargam asadvyavasāyam aśaucam anāyatiṃ
+caite puruṣasya janayanti || 1.2.32 ||
+
+na kāmāṃś caret | dharma-arthayoḥ pradhānayor evam anyeṣāṃ ca satāṃ
+pratyanīkatvāt | anartha-jana-saṃsargam asad-vyavasāyam aśaucam
+anāyatiṃ ca-ete puruṣasya janayanti ||
+
+tathā pramādaṃ lāghavam apratyayam agrāhyatāṃ ca | 1.2.33 ||
+
+tathā pramādaṃ lāghavam apratyayam agrāhyatāṃ ca |
+
+bahavaś ca kāmavaśagāḥ sagaṇā eva vinaṣṭāḥ śrūyante || 1.2.34 ||
+
+bahavaś ca kāmavaśagāḥ sagaṇā eva vinaṣṭāḥ śrūyante ||
+
+yathā dāṇḍakyo nāma bhojaḥ kāmād brāhmaṇakanyām abhimanyamānaḥ
+sabandhurāṣṭro vinanāśa || 1.2.35 ||
+
+yathā dāṇḍakyo nāma bhojaḥ kāmād brāhmaṇa-kanyām abhimanyamānaḥ
+sabandhu-rāṣṭro vinanāśa ||
+
+devarājaś cāhalyām atibalaś ca kīcako draupadīṃ rāvaṇaś ca sītām apare
+cānye ca bahavo dṛśyante kāmavaśagā vinaṣṭā ity arthacintakāḥ || 1.2.36 ||
+
+devarājaś ca-ahalyām atibalaś ca kīcako draupadīṃ rāvaṇaś ca sītām
+apare ca-anye ca bahavo dṛśyante kāmavaśagā vinaṣṭā ity artha-cintakāḥ ||
+</details>
+
+## 1.2.37-38
+
+但根据 Vatsyayana，“感官愉悦实际上就像食物，因为它们是身体健壮，而且它
+们是宗教信仰和个人发展的成果。但我们必须注意到它们的缺点，正如前文所说。
+我们不会因为想着 “有乞丐上门” 就不再把煮饭的锅放在火上，也不会因为想着
+“有羚羊捣乱” 就不再种植大麦。（因噎废食）
+
+<details>
+śarīrasthitihetutvād āhārasadharmāṇo hi kāmāḥ | phalabhūtāś ca
+dharmārthayoḥ || 1.2.37 ||
+
+śarīra-sthiti-hetutvād āhāra-sadharmāṇo hi kāmāḥ | phala-bhūtāś ca
+dharma-arthayoḥ ||
+
+boddhavyaṃ tu doṣeṣv iva | na hi bhikṣukāḥ santīti sthālyo
+nādhiśrīyante | na hi mṛgāḥ santīti yavā nopayanta iti vātsyāyanaḥ || 1.2.38 ||
+
+boddhavyaṃ tu doṣeṣv iva | na hi bhikṣukāḥ santi-iti sthālyo
+na-adhiśrīyante | na hi mṛgāḥ santi-iti yavā na-upayanta iti vātsyāyanaḥ ||
+</details>
+
+## 1.2.39-40
+
+关于这点还有下列诗句：
+
+凡人追求法利欲，今生来世乐无边。
+
+(A man who pursues prosperity, sensual pleasure, and religion achieves
+endless happiness without pain, both in this world and the next.)
+
+智者做事心坦荡，享快乐而不失利。
+
+(Educated men prefer actions which are neither associated with doubt
+about what will happen in the next life, nor with happiness that
+destroys prosperity.)
+
+这样就结束了第二章，人生的三个目标，位于辉煌的 Vatsyayana
+的《感官愉悦的指南》的第一部分（总则）。
+
+<details>
+evam arthaṃ ca kāmaṃ ca dharmaṃ copācaran naraḥ | 1.2.39a |
+
+evam arthaṃ ca kāmaṃ ca dharmaṃ ca-upācaran naraḥ |
+
+ihāmutra ca niḥśalyam atyantaṃ sukham aśnute || 1.2.39b ||
+
+iha-amutra ca niḥśalyam atyantaṃ sukham aśnute ||
+
+kiṃ syāt paratrety āśaṅkā kārye yasmin na jāyate | 1.2.40a |
+
+kiṃ syāt paratra-ity āśaṅkā kārye yasmin na jāyate |
+
+na cārthaghnaṃ sukhaṃ ceti śiṣṭās tatra vyavasthitāḥ || 1.2.40b ||
+
+na ca-arthaghnaṃ sukhaṃ ca-iti śiṣṭās tatra vyavasthitāḥ ||
+
+trivargasādhakaṃ yat syād dvayor ekasya vā punaḥ | 1.2.41a |
+
+trivarga-sādhakaṃ yat syād dvayor ekasya vā punaḥ |
+
+kāryaṃ tad api kurvīta na tv ekārthaṃ dvibādhakam || 1.2.41b ||
+
+kāryaṃ tad api kurvīta na tv eka-arthaṃ dvi-bādhakam ||
+</details>
