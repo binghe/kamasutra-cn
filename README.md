@@ -48,3 +48,10 @@ All textual contents are authored in the Darwin Information Typing Architecture 
 7. 《爱经》婆蹉衍那 [著], 理查·波顿 [英译], 寒川子 [汉译]. 内蒙古大学出版社
    (2007) (ISBN: 9787811151572)
    [https://book.douban.com/subject/2212715/] [http://www.tadu.com/book/576833]
+
+8. Kamasutra: A new translation by Wendy Doniger and Sudhir Kakar.
+   Oxford University Press (2002) (ISBN: 0-19-2839829)
+
+9. Kāmasūtra di Mallanāga Vātsyāyana (Traduzione di Sergio Paoli).
+   Newton & Compton editori s.r.l. (1992)
+   (Sesta edizione: gennario 1997) (ISBN: 88-7983-083-X)
