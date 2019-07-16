@@ -4,5 +4,6 @@
   <part href="general-matters.md" format="markdown">
     <chapter href="summary-of-the-guide.md" format="markdown" />
     <chapter href="three-aims-of-life.md" format="markdown" />
+    <chapter href="exposition-of-skills.md" format="markdown" />
   </part>
 </bookmap>
