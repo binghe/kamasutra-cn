@@ -143,6 +143,9 @@ bhikṣukī | svasā ca viśvāsa-prayogāt ||
 
 我们将在对那啥的专题演讲中讨论这些技艺，因为它们是感官愉悦的精髓。
 
+（译者：此处存疑。上述技艺似乎就是来自 Panchala
+的，但这些都是与本书无直接关系的技艺；另一方面，本书第二部分里的那啥的各种姿势刚好也是六十四种，它们和上述六十四种技艺之间的关系目前尚不明确，或者每种那啥的姿势刚好以上述技艺命名，比如 “吹箫”、“喷水” 等其实就是那个意思……）
+
 <details>
 gītaṃ, vādyaṃ, nṛtyaṃ, ālekhyaṃ, viśeṣakacchedyaṃ,
 taṇḍulakusumavalivikārāḥ, puṣpāstaraṇaṃ, daśanavasanāṅgarāgaḥ,
