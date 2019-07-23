@@ -295,12 +295,12 @@ na-adhiśrīyante | na hi mṛgāḥ santi-iti yavā na-upayanta iti vātsyāyan
 
 关于这点还有下列诗句：
 
-凡人追求法利欲，今生来世乐无边。
+凡人追求法欲利，今生来世乐无际。
 
 (A man who pursues prosperity, sensual pleasure, and religion achieves
 endless happiness without pain, both in this world and the next.)
 
-智者做事心坦荡，享快乐且不损利。
+智者行事心坦荡，快乐既享不失利。
 
 (Educated men prefer actions which are neither associated with doubt
 about what will happen in the next life, nor with happiness that
