@@ -42,7 +42,7 @@ lac），再用一些漱口水，嚼一点儿萎叶（可提神），然后去�
 
 ## 1.4.27-30
 
-另外还有幽灵夜（spirit night）、满月守夜（full-moon vigil）和春节（spring
+另外还有精神之夜（spirit night）、满月守夜（full-moon vigil）和春节（spring
 festival）。他们应该从事：砸开芒果（breaking open of
 mangoes），吃烤面包（roasted grains）和莲杆（lotus
 stalks），新叶子（new-leaf）游戏，喷水（water squirting），木偶剧（puppet
