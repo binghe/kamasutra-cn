@@ -122,7 +122,7 @@ tasya-ayaṃ prakaraṇa-adhikaraṇa-samuddeśaḥ ||
 
 第一部分 “总则” 有五章五节：1.
 概要；2. 人生的三个目标；3. 对各种生存技能的阐述；4.
-优雅男人的生活方式；5. 审视恋爱者及其伴侣和闺密们的活动。
+优雅男士的生活方式；5. 审视恋爱者及其伴侣和闺密们的活动。
 
 <details>
 śāstrasaṃgrahaḥ | trivargapratipattiḥ | vidyāsamuddeśaḥ |
