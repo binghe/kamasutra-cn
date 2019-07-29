@@ -295,16 +295,15 @@ na-adhiśrīyante | na hi mṛgāḥ santi-iti yavā na-upayanta iti vātsyāyan
 
 关于这点还有下列诗句：
 
-凡人追求法欲利，今生来世乐无际。
+> 凡人追求法欲利，今生来世乐无际。
 
-(A man who pursues prosperity, sensual pleasure, and religion achieves
-endless happiness without pain, both in this world and the next.)
+> (A man who pursues prosperity, sensual pleasure, and religion
+> achieves endless happiness without pain, both in this world and the next.)
 
-智者行事心坦荡，快乐既享不失利。
+> 智者行事心坦荡，快乐既享不失利。
 
-(Educated men prefer actions which are neither associated with doubt
-about what will happen in the next life, nor with happiness that
-destroys prosperity.)
+> (Educated men prefer actions which are neither associated with doubt
+> about what will happen in the next life, nor with happiness that destroys prosperity.)
 
 这样就结束了第二章，人生的三个目标，位于辉煌的 Vatsyayana
 的《感官愉悦的指南》的第一部分（总则）。
