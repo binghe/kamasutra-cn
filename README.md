@@ -2,7 +2,9 @@
 
 原著：印度古人，译者：一个没有性生活的人
 
-预编译的 HTML 版在这里：[https://binghe.github.io/kamasutra-cn/] (推荐直接在 GitHub 界面阅读 Markdown 文件，梵文默认折叠不显示)
+预编译的 HTML 版在这里：[https://binghe.github.io/kamasutra-cn/]
+
+推荐直接在 GitHub 界面阅读 Markdown 文件，梵文默认折叠不显示。
 
 ## Technologies
 
