@@ -16,7 +16,7 @@ All textual contents are authored in the Darwin Information Typing Architecture 
 
 ## Progress
 
-* [ ] Part I
+* [x] Part I
 * [ ] Part II
 * [ ] Part III
 * [ ] Part IV
