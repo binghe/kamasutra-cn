@@ -309,6 +309,8 @@ na-adhiśrīyante | na hi mṛgāḥ santi-iti yavā na-upayanta iti vātsyāyan
 的《感官愉悦的指南》的第一部分（总则）。
 
 <details>
+bhavanti ca-atra ślokāḥ: --- 
+
 evam arthaṃ ca kāmaṃ ca dharmaṃ copācaran naraḥ | 1.2.39a |
 
 evam arthaṃ ca kāmaṃ ca dharmaṃ ca-upācaran naraḥ |
