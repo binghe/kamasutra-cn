@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
 <bookmap xml:lang="en-US">
-  <part href="title.md" format="markdown">
+  <part href="sexual-intercourse.md" format="markdown">
+    <chapter href="sexual-unions.md" format="markdown">
+      <topicref href="size-endurance-and-temperament.md" format="markdown" />
+    </chapter>
   </part>
 </bookmap>
